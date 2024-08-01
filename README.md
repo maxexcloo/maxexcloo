@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Max Schaefer 👋
+
+![](https://komarev.com/ghpvc/?username=maxexcloo)
 
 <!--
 **maxexcloo/maxexcloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
