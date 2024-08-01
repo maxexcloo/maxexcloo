@@ -11,8 +11,7 @@
   />
   <img src="https://maxexcloo-github-readme-stats.vercel.app/api?username=maxexcloo&show_icons=true" />
 </picture>
-
-
+<br />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
