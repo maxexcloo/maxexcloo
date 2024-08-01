@@ -1,8 +1,8 @@
 ## Hi there, I'm Max Schaefer 👋
 
-Hey there! I'm a tech enthusiast with over 10 years of experience making cloud solutions smoother and faster. I've led small but mighty teams, offering technical support and keeping everything secure. I'm all about cloud solutions, automation, and optimizing infrastructure. Fun fact: I've slashed project delivery times by half and saved over 20% on costs through smart cloud strategies.
+Hey there! With over a decade in the tech world, I’m passionate about creating smooth and efficient cloud solutions. I’ve led small, agile teams, cutting project delivery times in half and saving over 20% in costs through smart cloud strategies. My focus areas include cloud solutions, automation, and infrastructure optimization. I thrive on tackling complex challenges and finding innovative solutions to make tech work better for everyone.
 
-When I’m not knee-deep in tech projects, I love kicking back with some retro gaming, tweaking my homelab and home network, and messing around with Linux. I’m also into web archiving, scripting, and playing with cool new gadgets like the Flipper Zero, tiny small-factor phones and laptops, and handheld gaming devices. Always up to learn and experiment!
+Outside of work, I dive into a variety of hobbies. I love retro gaming and often find myself tinkering with my homelab and home network setups. Linux is a constant source of experimentation for me, and I enjoy archiving the web and writing scripts to automate everyday tasks. Playing with new gadgets like the Flipper Zero, tiny small-factor devices, and handheld gaming gear keeps me excited about the latest tech trends. Always up to learn and experiment!
 
 <picture>
   <source
