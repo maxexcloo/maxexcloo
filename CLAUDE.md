@@ -46,6 +46,13 @@
 - **[Spec 2]**: [Unique behavior or implementation detail]
 - **[Spec 3]**: [Business logic or domain-specific rule]
 
+## README Guidelines
+- **Structure**: Title → Description → Quick Start → Features → Installation → Usage → Contributing
+- **Badges**: Include relevant status badges (build, version, license)
+- **Code examples**: Always include working examples in code blocks
+- **Installation**: Provide copy-paste commands that work
+- **Quick Start**: Get users running in under 5 minutes
+
 ## Git Workflow
 ```bash
 # After every change
