@@ -16,7 +16,7 @@
 
 ### Quality
 - **Comments**: Minimal - only for complex business logic
-- **Documentation**: Update README.md with every feature change
+- **Documentation**: Update ARCHITECTURE.md and README.md with every feature change
 - **Error handling**: [Specific error handling approach]
 - **Formatting**: Run [specific formatter command] before commits
 - **KISS principle**: Keep it simple - prefer readable code over clever code
