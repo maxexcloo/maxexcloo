@@ -1,7 +1,7 @@
 # CLAUDE.md - Development Guide
 
 ## Project Overview
-**Purpose**: [Brief one-line description of project purpose and main functionality]  
+**Purpose**: [Brief one-line description of project purpose and main functionality]
 **Status**: [Active/Archive/Experimental]
 **Language**: [Language version]+ (e.g., "JavaScript (Node.js 22+)", "Python 3.12+", "Go")
 
@@ -60,10 +60,11 @@
 
 ## Development Workflow Standards
 
-### [Environment Management/Management]
-- Use [specific tool] for consistent development environments
-- [Specific versioning requirements]
-- [Specific task management]
+### Environment Management
+- **Option 1 - Node.js**: Use npm scripts in package.json
+- **Option 2 - Python**: Use Docker + pip requirements 
+- **Option 3 - Go**: Use mise (.mise.toml) or native go commands
+- **Option 4 - Multi-lang**: Use mise for mixed-language projects
 
 ### Required Development Tasks
 - **build**: [Description of build task]
