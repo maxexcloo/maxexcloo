@@ -8,8 +8,8 @@
 ## Code Standards
 
 ### Organization
-- **Config/Data**: Alphabetical and recursive (imports, dependencies, object keys)
-- **Documentation**: Sort alphabetically and recursively when it makes logical sense
+- **Config/Data**: Alphabetical and recursive (imports, dependencies, object keys, mise tasks)
+- **Documentation**: Sort sections, lists, and references alphabetically when logical
 - **Files**: Alphabetical in documentation and directories
 - **Functions**: Group by purpose, alphabetical within groups
 - **Variables**: Alphabetical within scope
@@ -18,7 +18,7 @@
 - **Comments**: Minimal - only for complex business logic
 - **Documentation**: Update ARCHITECTURE.md and README.md with every feature change
 - **Error handling**: [Specific error handling approach]
-- **Formatting**: Run [specific formatter command] before commits
+- **Formatting**: Run `mise run fmt` before commits
 - **KISS principle**: Keep it simple - prefer readable code over clever code
 - **Naming**: [Language-specific conventions]
 - **Testing**: [Testing approach]
@@ -27,17 +27,22 @@
 ## Commands
 ```bash
 # Build
-[build command]    # Description of build process
+mise run build           # Description of build process
 
 # Development
-[dev command]      # Start development or validation cycle
-[test command]     # Run test suite
+mise run dev             # Development validation cycle
 
 # Format
-[fmt command]      # Code formatting
+mise run fmt             # Code formatting
 
 # Check
-[check command]    # All validation (fmt + lint + test)
+mise run check           # All validation (fmt + lint + test)
+
+# Lint
+mise run lint            # Code quality checks (if applicable)
+
+# Test
+mise run test            # Run test suite
 ```
 
 ## Development Guidelines
@@ -61,10 +66,9 @@
 ## Development Workflow Standards
 
 ### Environment Management
-- **Option 1 - Node.js**: Use npm scripts in package.json
-- **Option 2 - Python**: Use uv scripts (dependencies in script headers)
-- **Option 3 - Go**: Use mise (.mise.toml) or native go commands
-- **Option 4 - Multi-lang**: Use mise for mixed-language projects
+- Use **mise** for consistent development environments
+- Define common tasks as mise scripts in `.mise.toml`
+- Pin tool versions in `.mise.toml`
 
 ## Error Handling Standards
 - **Contextual errors**: [Specific approach]
@@ -77,7 +81,7 @@
 - **check**: All validation (fmt + lint + test)
 - **dev**: Development validation cycle
 - **fmt**: Code formatting
-- **lint**: Code quality checks
+- **lint**: Code quality checks (if applicable)
 - **test**: Run test suite
 
 ## Project Structure
@@ -87,7 +91,7 @@
 - **[other-file.ext]**: [Specific purpose]
 
 ## README Guidelines
-- **Badges**: Include relevant status badges (license, status, language, docker)
+- **Badges**: Include relevant status badges (license, status, docker, language)
 - **Code examples**: Always include working examples in code blocks
 - **Installation**: Provide copy-paste commands that work
 - **Quick Start**: Get users running in under 5 minutes
