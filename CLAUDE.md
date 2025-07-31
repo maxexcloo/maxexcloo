@@ -42,15 +42,15 @@
 
 ## Development Guidelines
 
-### Documentation Structure
-- **ARCHITECTURE.md**: Technical design and implementation details
-- **CLAUDE.md**: Development standards and project guidelines
-- **README.md**: Tool overview and usage guide
-
 ### Contribution Standards
 - **Code Changes**: Follow sorting rules and maintain [specific requirements]
 - **Documentation**: Keep all docs synchronized and cross-referenced
 - **Feature Changes**: Update README.md and ARCHITECTURE.md when adding features
+
+### Documentation Structure
+- **ARCHITECTURE.md**: Technical design and implementation details
+- **CLAUDE.md**: Development standards and project guidelines
+- **README.md**: Tool overview and usage guide
 
 ## [Interface/API/Command] Standards
 - **[Clear responses/output]**: [Specific requirements]
@@ -62,9 +62,15 @@
 
 ### Environment Management
 - **Option 1 - Node.js**: Use npm scripts in package.json
-- **Option 2 - Python**: Use Docker + pip requirements 
+- **Option 2 - Python**: Use uv scripts (dependencies in script headers)
 - **Option 3 - Go**: Use mise (.mise.toml) or native go commands
 - **Option 4 - Multi-lang**: Use mise for mixed-language projects
+
+## Error Handling Standards
+- **Contextual errors**: [Specific approach]
+- **Graceful degradation**: [Specific approach]
+- **Informative messages**: [Specific approach]
+- **User-friendly output**: [Specific approach]
 
 ### Required Development Tasks
 - **build**: [Description of build task]
@@ -73,12 +79,6 @@
 - **fmt**: Code formatting
 - **lint**: Code quality checks
 - **test**: Run test suite
-
-## Error Handling Standards
-- **Contextual errors**: [Specific approach]
-- **Graceful degradation**: [Specific approach]
-- **Informative messages**: [Specific approach]
-- **User-friendly output**: [Specific approach]
 
 ## Project Structure
 - **[main-directory/]**: [Purpose and contents]
@@ -98,15 +98,6 @@
 - **Frontend**: [Frontend technologies, if applicable]
 - **Client**: [Client technologies, if applicable]
 - **Testing**: [Testing approach and frameworks]
-
-## Git Workflow
-```bash
-# After every change
-[check command] && git add . && git commit -m "type: description"
-
-# Always commit after verified working changes
-# Keep commits small and focused
-```
 
 ---
 
