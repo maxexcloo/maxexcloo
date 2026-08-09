@@ -8,7 +8,9 @@
 ## Style
 
 - Prefer plain Markdown over generated markup or custom tooling.
-- Keep sections and technology badges in a logical, consistent order.
+- Sort unordered peer headings, lists, table rows, and technology badges
+  alphabetically. Preserve narrative, procedural, dependency, interface, priority,
+  and chronological order.
 - Preserve working links and image URLs.
 
 ## Verification
