@@ -4,6 +4,8 @@
 
 - This repository contains the GitHub profile README.
 - Keep the profile concise, personal, and easy to scan.
+- Keep only `AGENTS.md` and `README.md` as root Markdown files; put other project
+  documentation in `docs/`.
 
 ## Style
 
@@ -12,6 +14,8 @@
   alphabetically. Preserve narrative, procedural, dependency, interface, priority,
   and chronological order.
 - Preserve working links and image URLs.
+- Use `.yaml`, never `.yml`, for project-owned YAML files unless external tooling
+  requires a fixed filename.
 - Preserve `LICENSE` and its legal text; never relicense without explicit approval.
 - Use Australian English throughout authored prose and every project-owned name,
   including identifiers, configuration keys, environment variables, paths, CLI
