@@ -9,6 +9,7 @@ Outside of work, I dive into a variety of hobbies. I love retro gaming and often
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxexcloo)
 
 ## GitHub Stats
+
 ![](https://github-readme-stats.excloo.com/api?count_private=true&include_all_commits=true&theme=dark&username=maxexcloo)
 
 ![](https://github-readme-stats.excloo.com/api/top-langs?count_private=true&include_all_commits=true&layout=compact&theme=dark&username=maxexcloo)
