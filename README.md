@@ -6,8 +6,6 @@ I’m a cloud and platform engineer with over a decade of experience building re
 
 Outside work, you’ll usually find me tinkering with my homelab and home network, experimenting with Linux, archiving the web, automating everyday tasks, or exploring retro games, handhelds and small-form-factor devices.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge)](https://linkedin.com/in/maxexcloo)
-
 ## GitHub Stats
 
 ![Max’s GitHub Statistics](https://github-readme-stats.excloo.com/api?include_all_commits=true&theme=transparent&username=maxexcloo)
