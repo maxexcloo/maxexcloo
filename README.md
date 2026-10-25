@@ -43,7 +43,3 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 ### Languages & Frameworks
 
 ![Go](https://flat.badgen.net/badge/icon/Go/00ADD8?icon=go&label) ![Python](https://flat.badgen.net/badge/icon/Python/3670A0?icon=python&label) ![React](https://flat.badgen.net/badge/icon/React/20232A?icon=react&label) ![TypeScript](https://flat.badgen.net/badge/icon/TypeScript/3178C6?icon=typescript&label)
-
-## Licence
-
-AGPL-3.0 - see [LICENSE](LICENSE).
