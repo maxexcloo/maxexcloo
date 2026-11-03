@@ -18,7 +18,7 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 - [actual-up](https://github.com/maxexcloo/actual-up) syncs my Up bank transactions into Actual Budget.
 - [Beszel](https://github.com/maxexcloo/homeassistant-beszel-integration) and [Energy Locals](https://github.com/maxexcloo/homeassistant-energy-locals-integration) are Home Assistant integrations I maintain.
 - [trmnl-builds](https://github.com/maxexcloo/trmnl-builds) builds TRMNL e-ink firmware automatically, and you can flash it from the browser.
-- [bluemax](https://github.com/maxexcloo/bluemax) is my custom Bazzite image for handheld gaming.
+- [bluemax](https://github.com/maxexcloo/bluemax) builds my custom Bazzite images for handheld and desktop gaming.
 
 ## GitHub Stats
 
