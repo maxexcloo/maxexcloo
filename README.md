@@ -9,7 +9,7 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 ## Projects
 
 - [homelab](https://github.com/maxexcloo/homelab) and [kubelab](https://github.com/maxexcloo/kubelab) run my home network and Kubernetes clusters, built with OpenTofu and Flux.
-- [minilab](https://github.com/maxexcloo/minilab) is where I put small self-hosted apps. Merging one deploys it.
+- [minilab](https://github.com/maxexcloo/minilab) is where I put small self-hosted apps.
 - [flylab](https://github.com/maxexcloo/flylab) runs outside monitoring for my homelab on Fly.io.
 - [images](https://github.com/maxexcloo/images) builds the container images I use from pinned upstream sources.
 - [studio](https://github.com/maxexcloo/studio) is my hard fork of the HEISS UI ComfyUI front end, with multi-user accounts, cloud providers and an MCP server so chat apps can generate images and video.
