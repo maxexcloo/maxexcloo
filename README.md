@@ -14,7 +14,7 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 - [images](https://github.com/maxexcloo/images) builds the container images I use from pinned upstream sources.
 - [studio](https://github.com/maxexcloo/studio) is my hard fork of the HEISS UI ComfyUI front end, with multi-user accounts, cloud providers and an MCP server so chat apps can generate images and video.
 - [agents](https://github.com/maxexcloo/agents) holds the agent skills and guidance I use across my repositories.
-- [dotfiles](https://github.com/maxexcloo/dotfiles) sets up my Mac with chezmoi and Mise, and [local-services](https://github.com/maxexcloo/local-services) runs local Docker Compose services on OrbStack.
+- [dotfiles](https://github.com/maxexcloo/dotfiles) sets up my Mac and Linux workstations with chezmoi and Mise, including local container services.
 - [tofusort](https://github.com/maxexcloo/tofusort) sorts and formats OpenTofu and Terraform files.
 - [actual-up](https://github.com/maxexcloo/actual-up) syncs my Up bank transactions into Actual Budget.
 - [Beszel](https://github.com/maxexcloo/homeassistant-beszel-integration) and [Energy Locals](https://github.com/maxexcloo/homeassistant-energy-locals-integration) are Home Assistant integrations I maintain.
