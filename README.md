@@ -12,14 +12,14 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 - [minilab](https://github.com/maxexcloo/minilab) is where I put small self-hosted apps.
 - [flylab](https://github.com/maxexcloo/flylab) runs outside monitoring for my homelab on Fly.io.
 - [images](https://github.com/maxexcloo/images) builds the container images I use from pinned upstream sources.
-- [studio](https://github.com/maxexcloo/studio) is my hard fork of the HEISS UI ComfyUI front end, with multi-user accounts, cloud providers and an MCP server so chat apps can generate images and video.
+- [studio](https://github.com/maxexcloo/studio) is my fork of the HEISS UI ComfyUI front end, with multi-user accounts and an MCP server.
 - [agents](https://github.com/maxexcloo/agents) holds the agent skills and guidance I use across my repositories.
-- [dotfiles](https://github.com/maxexcloo/dotfiles) sets up my Mac and Linux workstations with chezmoi and Mise, including local container services.
+- [dotfiles](https://github.com/maxexcloo/dotfiles) sets up my Mac and Linux workstations with chezmoi and Mise.
 - [tofusort](https://github.com/maxexcloo/tofusort) sorts and formats OpenTofu and Terraform files.
 - [actual-up](https://github.com/maxexcloo/actual-up) syncs my Up bank transactions into Actual Budget.
 - [Beszel](https://github.com/maxexcloo/homeassistant-beszel-integration) and [Energy Locals](https://github.com/maxexcloo/homeassistant-energy-locals-integration) are Home Assistant integrations I maintain.
 - [esphome](https://github.com/maxexcloo/esphome) holds my ESPHome device configurations and custom components.
-- [trmnl-builds](https://github.com/maxexcloo/trmnl-builds) builds TRMNL e-ink firmware automatically, and you can flash it from the browser.
+- [trmnl-builds](https://github.com/maxexcloo/trmnl-builds) builds TRMNL e-ink firmware you can flash from the browser.
 - [bluemax](https://github.com/maxexcloo/bluemax) builds my custom Bazzite images for handheld and desktop gaming.
 - [signtools-builder](https://github.com/maxexcloo/signtools-builder) runs SignTools builds on GitHub Actions over Tailscale.
 
