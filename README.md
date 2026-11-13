@@ -20,7 +20,7 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 - [homeassistant-beszel-integration](https://github.com/maxexcloo/homeassistant-beszel-integration) and [homeassistant-energy-locals-integration](https://github.com/maxexcloo/homeassistant-energy-locals-integration) are Home Assistant integrations I maintain.
 - [esphome](https://github.com/maxexcloo/esphome) holds my ESPHome device configurations and custom components.
 - [trmnl-builds](https://github.com/maxexcloo/trmnl-builds) builds TRMNL e-ink firmware you can flash from the browser.
-- [bluemax](https://github.com/maxexcloo/bluemax) builds my custom Bazzite images for handheld and desktop gaming and a uCore image for homelab servers.
+- [bluemax](https://github.com/maxexcloo/bluemax) builds my custom Bazzite Deck image for gaming and a uCore image for homelab servers.
 - [signtools-builder](https://github.com/maxexcloo/signtools-builder) runs SignTools builds on GitHub Actions over Tailscale.
 - [ios-jellystar](https://github.com/maxexcloo/ios-jellystar) is my experimental iOS 16 port to the Unihertz Jelly Star.
 
