@@ -1,0 +1,47 @@
+name: Stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  cancel-in-progress: true
+  group: stats
+
+jobs:
+  stats:
+    name: Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          fail_on_error: true
+          options: include_all_commits=true&theme=transparent
+          path: stats.svg
+          token: ${{ github.token }}
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          fail_on_error: true
+          options: layout=compact&theme=transparent
+          path: top-langs.svg
+          token: ${{ github.token }}
+      # The cards live alone on an orphan branch so daily updates stay out of main's history.
+      - name: Publish Cards
+        run: |
+          git switch --orphan output
+          git add stats.svg top-langs.svg
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit --message "Update stats cards"
+          git push --force origin output
