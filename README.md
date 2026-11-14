@@ -26,9 +26,9 @@ Outside work, you’ll usually find me tinkering with my homelab and home networ
 
 ## GitHub Stats
 
-![Max’s GitHub Statistics](https://github-readme-stats.excloo.com/api?include_all_commits=true&theme=transparent&username=maxexcloo)
+![Max’s GitHub Statistics](https://raw.githubusercontent.com/maxexcloo/maxexcloo/output/stats.svg)
 
-![Max’s Most-Used Languages](https://github-readme-stats.excloo.com/api/top-langs?layout=compact&theme=transparent&username=maxexcloo)
+![Max’s Most-Used Languages](https://raw.githubusercontent.com/maxexcloo/maxexcloo/output/top-langs.svg)
 
 ## Tech Stack
 
